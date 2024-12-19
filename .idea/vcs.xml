@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/actor-ping" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/buf-tour" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gison-rust-learn" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/learn" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/proto" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ps-rust-actix-api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rust-actix-web-crud" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rust-practice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rust-web" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rust-with-tdengine" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rustlings" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/websocket" vcs="Git" />
+  </component>
+</project>

@@ -1,0 +1,3 @@
+www.google.com/ncrwww.google.com/ncr
+Rustwrite_all并不会在在写入数据后自动换行www.google.com/ncr
+Rustwrite_all并不会在在写入数据后自动换行

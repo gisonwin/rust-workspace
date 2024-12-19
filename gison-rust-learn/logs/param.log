@@ -1,0 +1,24 @@
+[TRACE]2024-07-02 15:39:42.924929 main.rs 22:starting
+[DEBUG]2024-07-02 15:39:42.925064 main.rs 23:debugging
+[INFO]2024-07-02 15:39:43.935644 main.rs 31:end
+[WARN]2024-07-02 15:39:43.935753 main.rs 32:warn log
+[ERROR]2024-07-02 15:39:43.935788 main.rs 33:error log
+[FATAL]2024-07-02 15:39:43.935820 main.rs 34:fatal log
+[TRACE]2024-07-02 15:55:38.714123 tokio-learn\src\main.rs 22:starting
+[DEBUG]2024-07-02 15:55:38.714194 tokio-learn\src\main.rs 23:debugging
+[INFO]2024-07-02 15:55:39.723016 tokio-learn\src\main.rs 31:end
+[WARN]2024-07-02 15:55:39.723122 tokio-learn\src\main.rs 32:warn log
+[ERROR]2024-07-02 15:55:39.723156 tokio-learn\src\main.rs 33:error log
+[FATAL]2024-07-02 15:55:39.723195 tokio-learn\src\main.rs 34:fatal log
+[TRACE]2024-07-02 16:06:30.331135 main.rs 22:starting
+[DEBUG]2024-07-02 16:06:30.331227 main.rs 23:debugging
+[INFO]2024-07-02 16:06:31.337823 main.rs 31:end
+[WARN]2024-07-02 16:06:32.352804 main.rs 33:warn log
+[ERROR]2024-07-02 16:06:32.352914 main.rs 34:error log
+[FATAL]2024-07-02 16:06:32.352959 main.rs 35:fatal log
+[TRACE]2024-07-02 16:10:03.246937 main.rs 22:starting
+[DEBUG]2024-07-02 16:10:04.257751 main.rs 29:debugging
+[INFO]2024-07-02 16:10:05.267020 main.rs 31:end
+[WARN]2024-07-02 16:10:05.283085 main.rs 34:warn log
+[ERROR]2024-07-02 16:10:05.283212 main.rs 36:error log
+[FATAL]2024-07-02 16:10:05.298159 main.rs 38:fatal log

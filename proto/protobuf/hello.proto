@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+package hello;
+
+
+import "SZDFH-public.proto";
+
+service Greeter {
+  rpc SayHello (HelloRequest) returns (HelloReply) {}
+}
+
+message HelloRequest {
+  string name = 1;
+  TST_LOGIN login=2;
+}
+
+message HelloReply {
+  string message = 1;
+}

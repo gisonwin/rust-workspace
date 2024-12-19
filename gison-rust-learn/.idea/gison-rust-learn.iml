@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="EMPTY_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/axum-learn/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/hello-world/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/generate-random-number/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/deep-into-rust/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/deep-into-rust/src/thread_learn/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust-basic/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tokio-learn/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust-spider/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/deep-into-rust/target" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
